@@ -1,0 +1,32 @@
+// Programmer: Dalton Lobosky
+// Date: 9/15/2016
+// File: HW_04
+
+package code;
+
+import java.util.Scanner;
+import static java.lang.Math.*;
+
+public class Triangle extends GeometricObject
+{
+        float x,y,z;
+        double perim, area, num;
+
+       /** Calculates and returns the area of a trianlge based off of three known sides*/	
+	public double getArea()
+	{
+                 num = t_perim()/2;
+	         	         
+	         area = sqrt(num*(num-x)*(num-y)*(num-z));
+	         
+	         return area;
+        }
+        
+        /**Calculates and return the perimeter of a trianlge */
+        public double getPerimeter()
+        {                
+                perim = (x+y+z);
+                
+                return perim;
+        }
+}	

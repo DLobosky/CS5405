@@ -1,0 +1,36 @@
+
+
+
+dgl9t5@rc08xcs213:~/SDRIVE/CS5405/HW_03$ javac -d . *.java
+dgl9t5@rc08xcs213:~/SDRIVE/CS5405/HW_03$ java hw_03.MYPointDemo
+-------------------------------------------------------------
+
+Point 1 is currently set to (0.0, 0.0)
+
+Please enter your desired X coordinate for Point 2:
+1
+Please enter your desired Y coordinate for Point 2:
+2
+
+Point 2 is currently set to (1.0, 2.0)
+
+The distance between Point 1 and Point 2 is: 2.23606797749979
+
+
+-------------------------------------------------------------
+Please enter your desired X coordinate for Point 3:
+3
+Please enter your desired Y coordinate for Point 3:
+4
+
+Point 3 is currently set to (3.0, 4.0)
+
+The distance between Point 2 and Point 3 is: 2.8284271247461903
+
+-------------------------------------------------------------
+
+
+dgl9t5@rc08xcs213:~/SDRIVE/CS5405/HW_03$
+
+
+

@@ -1,0 +1,20 @@
+dgl9t5@rc07xcs213:~/SDRIVE/CS5405/HW_04$ javac -d . *.java
+dgl9t5@rc07xcs213:~/SDRIVE/CS5405/HW_04$ java code.TriangleDemo
+----------------------------------------
+Please enter Side 1:
+2
+Please enter Side 2:
+3
+Please enter Side 3:
+4
+Please enter the color of your triangle: :
+red
+Is the triangle filled? (True = yes / False = no):
+True
+
+The area of the triangle is: 2.9047375096555625
+
+The perimeter of the triangle is: 9.0
+created on Mon Sep 19 14:12:58 CDT 2016
+color: red and filled: true
+dgl9t5@rc07xcs213:~/SDRIVE/CS5405/HW_04$
